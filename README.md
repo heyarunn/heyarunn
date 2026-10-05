@@ -10,7 +10,7 @@ I enjoy working across both backend and frontend — from designing APIs and dat
 
 ---
 
-## 💼 What I Work With
+### 💼 What I Work With
 
 **Backend**
 Java • Spring Boot • Spring Security • JPA/Hibernate • REST APIs • Microservices
@@ -29,9 +29,9 @@ Microservices • Event-Driven Architecture • JWT/RBAC • API Design
 
 ---
 
-## 🚀 What I've Worked On
+### 🚀 What I've Worked On
 
-### 🔧 Travel Desk Application
+#### 🔧 Travel Desk Application
 
 Enterprise workflow application used by **1,000+ users** at Nissan Digital India.
 
@@ -42,7 +42,7 @@ Enterprise workflow application used by **1,000+ users** at Nissan Digital India
 * Integrated third-party APIs and enterprise systems
 * Built workflow automation for approval-based processes
 
-### 📊 ROMDR Application
+#### 📊 ROMDR Application
 
 Enterprise workflow and reporting platform supporting global engineering processes.
 
@@ -53,9 +53,9 @@ Enterprise workflow and reporting platform supporting global engineering process
 
 ---
 
-## 🔧 Personal Projects
+### 🔧 Personal Projects
 
-### 🚕 RideFlow
+#### 🚕 RideFlow
 
 A ride-booking backend focused on **Java backend development, microservices architecture, DSA, geospatial systems, and real-time event-driven workflows**.
 
@@ -68,7 +68,7 @@ A ride-booking backend focused on **Java backend development, microservices arch
 * Resilience4j for fault tolerance
 * Testcontainers, Docker & Kubernetes
 
-### 🎬 Netflix Clone
+#### 🎬 Netflix Clone
 
 A full-stack Netflix-inspired streaming platform with **genre-based movie discovery, authentication, and personalized watchlists**.
 
@@ -80,8 +80,25 @@ A full-stack Netflix-inspired streaming platform with **genre-based movie discov
 
 ---
 
-## 🌱 Currently Exploring
+### 🌱 Currently Exploring
 
 * System Design
 * Distributed Systems
-* AWS & Cloud
+* AWS & Cloud Architecture
+* Event-Driven Architecture
+* Scalable Backend Systems
+
+---
+
+### 🎯 What I Enjoy
+
+I enjoy solving real-world problems through software — understanding how a system works, breaking complex requirements into smaller services, and building solutions that are **reliable, maintainable, and scalable**.
+
+I'm always learning, experimenting with new technologies, and building projects to improve my engineering skills.
+
+---
+
+### 📫 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/arunalakkal)
+* 🐙 [GitHub](https://github.com/heyarunn)
